@@ -1,0 +1,32 @@
+@media (max-width:767px) {
+    #header {
+
+        display: none;
+    }
+    .hbg {
+        margin: 5px;
+
+    }
+    .hbg > div {
+        background-color: #aaaaaa;
+        width: 25px;
+        height: 2px;
+        margin: 6px;
+    }
+
+    .b {
+        height: 80px;
+    }
+
+    .c {
+        justify-content: center;
+    }
+
+    
+}
+@media (min-width:768px) {
+    .mobile {
+        display: none;
+    }
+
+}
